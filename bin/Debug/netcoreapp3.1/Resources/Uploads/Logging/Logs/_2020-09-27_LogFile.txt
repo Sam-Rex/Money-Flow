@@ -1,0 +1,24 @@
+2020-09-27 05:20:01.4817 |DEBUG|init main
+2020-09-27 05:20:07.5796 |ERROR|Stopped program beacause of exception 
+2020-09-27 05:21:18.2550 |DEBUG|init main
+2020-09-27 05:21:23.7954 |ERROR|Stopped program beacause of exception 
+2020-09-27 11:40:55.6168 |DEBUG|init main
+2020-09-27 11:41:07.2388 |ERROR|Stopped program beacause of exception 
+2020-09-27 11:45:12.4177 |DEBUG|init main
+2020-09-27 11:45:22.1664 |INFO|Now listening on: https://localhost:5001
+2020-09-27 11:45:22.2139 |INFO|Now listening on: http://localhost:5000
+2020-09-27 11:45:22.2488 |INFO|Application started. Press Ctrl+C to shut down.
+2020-09-27 11:45:22.2875 |INFO|Hosting environment: Development
+2020-09-27 11:45:22.3229 |INFO|Content root path: F:\Sam-Rex\Api's\Supermarket\Api
+2020-09-27 11:50:38.1991 |DEBUG|init main
+2020-09-27 11:50:47.0518 |INFO|Now listening on: https://localhost:5001
+2020-09-27 11:50:47.1011 |INFO|Now listening on: http://localhost:5000
+2020-09-27 11:50:47.1228 |INFO|Application started. Press Ctrl+C to shut down.
+2020-09-27 11:50:47.1462 |INFO|Hosting environment: Development
+2020-09-27 11:50:47.1659 |INFO|Content root path: F:\Sam-Rex\Api's\Supermarket\Api
+2020-09-27 12:22:01.8410 |DEBUG|init main
+2020-09-27 12:22:06.3645 |ERROR|Stopped program beacause of exception 
+2020-09-27 12:27:09.6646 |DEBUG|init main
+2020-09-27 12:27:10.4045 |ERROR|Stopped program beacause of exception 
+2020-09-27 12:53:58.6901 |DEBUG|init main
+2020-09-27 12:53:59.7141 |ERROR|Stopped program beacause of exception 

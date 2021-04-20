@@ -1,0 +1,22 @@
+2020-09-27 13:19:47.2538 |DEBUG|init main
+2020-09-27 13:19:48.3568 |ERROR|Stopped program beacause of exception 
+2020-09-27 13:21:45.1558 |DEBUG|init main
+2020-09-27 13:21:46.1433 |ERROR|Stopped program beacause of exception 
+2020-09-27 13:23:03.5120 |INFO|Now listening on: https://localhost:5001
+2020-09-27 13:23:03.7687 |INFO|Now listening on: http://localhost:5000
+2020-09-27 13:23:03.8209 |INFO|Application started. Press Ctrl+C to shut down.
+2020-09-27 13:23:03.8545 |INFO|Hosting environment: Development
+2020-09-27 13:23:03.8787 |INFO|Content root path: F:\Sam-Rex\Api's\Supermarket\Api
+2020-09-27 13:24:02.1824 |WARN|Invalid password for user 77bd4a56-d4d2-4e83-a30d-2c3af63a15e3.
+2020-09-27 13:24:02.4228 |INFO|Authenticate: Login Failed .. wrong Username or Password.
+2020-09-27 13:29:06.2044 |INFO|Now listening on: https://localhost:5001
+2020-09-27 13:29:06.3579 |INFO|Now listening on: http://localhost:5000
+2020-09-27 13:29:06.4118 |INFO|Application started. Press Ctrl+C to shut down.
+2020-09-27 13:29:06.4407 |INFO|Hosting environment: Development
+2020-09-27 13:29:06.4641 |INFO|Content root path: F:\Sam-Rex\Api's\Supermarket\Api
+2020-09-27 13:38:23.0298 |DEBUG|init main
+2020-09-27 13:38:27.5090 |INFO|Now listening on: https://localhost:5001
+2020-09-27 13:38:27.5549 |INFO|Now listening on: http://localhost:5000
+2020-09-27 13:38:27.5765 |INFO|Application started. Press Ctrl+C to shut down.
+2020-09-27 13:38:27.5765 |INFO|Hosting environment: Development
+2020-09-27 13:38:27.6514 |INFO|Content root path: F:\Sam-Rex\Api's\Supermarket\Api
