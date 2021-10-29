@@ -7221,23 +7221,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Al-Akhder\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\OS-PLUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Sam-Rex\\Api's\\OS-Plus\\Api\\Analayzer\\Api.csproj",
+      "projectUniqueName": "J:\\GitHub\\Money-Flow\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "F:\\Sam-Rex\\Api's\\OS-Plus\\Api\\Analayzer\\Api.csproj",
-      "packagesPath": "C:\\Users\\Al-Akhder\\.nuget\\packages\\",
-      "outputPath": "F:\\Sam-Rex\\Api's\\OS-Plus\\Api\\Analayzer\\obj\\",
+      "projectPath": "J:\\GitHub\\Money-Flow\\Api.csproj",
+      "packagesPath": "C:\\Users\\OS-PLUS\\.nuget\\packages\\",
+      "outputPath": "J:\\GitHub\\Money-Flow\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Al-Akhder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OS-PLUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7348,7 +7344,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
